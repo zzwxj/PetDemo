@@ -1,0 +1,918 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723",
+  "files": [
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin",
+    "__original-animation-5.bin",
+    "__original-animation-6.bin",
+    "__original-animation-7.bin",
+    "__original-animation-8.bin",
+    "__original-animation-9.bin"
+  ],
+  "subMetas": {
+    "28448": {
+      "importer": "gltf-material",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@28448",
+      "displayName": "",
+      "id": "28448",
+      "name": "UnnamedMaterial-0.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50743": {
+      "importer": "texture",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@50743",
+      "displayName": "",
+      "id": "50743",
+      "name": "UnnamedTexture-5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2127776f-ee56-4a27-b2be-d12bfa432723@9739b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "68747": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@68747",
+      "displayName": "",
+      "id": "68747",
+      "name": "UnnamedImage-2.image",
+      "userData": {
+        "gltfIndex": 2,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "82371": {
+      "importer": "gltf-mesh",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@82371",
+      "displayName": "",
+      "id": "82371",
+      "name": "UnnamedMesh-1.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 3082
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "057cb": {
+      "importer": "gltf-mesh",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@057cb",
+      "displayName": "",
+      "id": "057cb",
+      "name": "UnnamedMesh-0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 15140
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d114a": {
+      "importer": "gltf-mesh",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@d114a",
+      "displayName": "",
+      "id": "d114a",
+      "name": "UnnamedMesh-2.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 864
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "055f0": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@055f0",
+      "displayName": "",
+      "id": "055f0",
+      "name": "_CharacterSucceeds.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e3010": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@e3010",
+      "displayName": "",
+      "id": "e3010",
+      "name": "ClickedOn.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.199999809265137
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "07b30": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@07b30",
+      "displayName": "",
+      "id": "07b30",
+      "name": "Congratulate.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.3333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "a2327": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@a2327",
+      "displayName": "",
+      "id": "a2327",
+      "name": "Embarrassed.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 7.066666603088379
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "c431f": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@c431f",
+      "displayName": "",
+      "id": "c431f",
+      "name": "Hide.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.2666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "c3c3d": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@c3c3d",
+      "displayName": "",
+      "id": "c3c3d",
+      "name": "Pleased.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.9666666984558105
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "b5060": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@b5060",
+      "displayName": "",
+      "id": "b5060",
+      "name": "Show.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 1.4119691627826472,
+          "to": 1.9644788351758566
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e8911": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@e8911",
+      "displayName": "",
+      "id": "e8911",
+      "name": "Travel.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 6.566666603088379
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "0fc01": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@0fc01",
+      "displayName": "",
+      "id": "0fc01",
+      "name": "Writing.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.066666603088379
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "c2696": {
+      "importer": "gltf-animation",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@c2696",
+      "displayName": "",
+      "id": "c2696",
+      "name": "Idle.animation",
+      "userData": {
+        "gltfIndex": 9,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.1666667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "13eba": {
+      "importer": "gltf-skeleton",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@13eba",
+      "displayName": "",
+      "id": "13eba",
+      "name": "skeleton #0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 61
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00e76": {
+      "importer": "gltf-skeleton",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@00e76",
+      "displayName": "",
+      "id": "00e76",
+      "name": "skeleton #0_1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 61
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "46d79": {
+      "importer": "gltf-skeleton",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@46d79",
+      "displayName": "",
+      "id": "46d79",
+      "name": "skeleton #0_2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 61
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3dd56": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@3dd56",
+      "displayName": "",
+      "id": "3dd56",
+      "name": "UnnamedImage-0.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e6ff4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@e6ff4",
+      "displayName": "",
+      "id": "e6ff4",
+      "name": "UnnamedImage-1.image",
+      "userData": {
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "fb88e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@fb88e",
+      "displayName": "",
+      "id": "fb88e",
+      "name": "UnnamedImage-3.image",
+      "userData": {
+        "gltfIndex": 3,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "9739b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@9739b",
+      "displayName": "",
+      "id": "9739b",
+      "name": "UnnamedImage-4.image",
+      "userData": {
+        "gltfIndex": 4,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "932e8": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@932e8",
+      "displayName": "",
+      "id": "932e8",
+      "name": "UnnamedImage-5.image",
+      "userData": {
+        "gltfIndex": 5,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2127776f-ee56-4a27-b2be-d12bfa432723@3dd56"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2127776f-ee56-4a27-b2be-d12bfa432723@e6ff4"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2127776f-ee56-4a27-b2be-d12bfa432723@68747"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2127776f-ee56-4a27-b2be-d12bfa432723@e6ff4"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2127776f-ee56-4a27-b2be-d12bfa432723@fb88e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99ea5": {
+      "importer": "texture",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@99ea5",
+      "displayName": "",
+      "id": "99ea5",
+      "name": "UnnamedTexture-6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2127776f-ee56-4a27-b2be-d12bfa432723@932e8"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "006bd": {
+      "importer": "texture",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@006bd",
+      "displayName": "",
+      "id": "006bd",
+      "name": "UnnamedTexture-7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2127776f-ee56-4a27-b2be-d12bfa432723@9739b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d71e7": {
+      "importer": "gltf-material",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@d71e7",
+      "displayName": "",
+      "id": "d71e7",
+      "name": "UnnamedMaterial-1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b2ad": {
+      "importer": "gltf-scene",
+      "uuid": "2127776f-ee56-4a27-b2be-d12bfa432723@9b2ad",
+      "displayName": "",
+      "id": "9b2ad",
+      "name": "Rover.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "2127776f-ee56-4a27-b2be-d12bfa432723@3dd56"
+      },
+      {
+        "uri": "2127776f-ee56-4a27-b2be-d12bfa432723@e6ff4"
+      },
+      {
+        "uri": "2127776f-ee56-4a27-b2be-d12bfa432723@68747"
+      },
+      {
+        "uri": "2127776f-ee56-4a27-b2be-d12bfa432723@fb88e"
+      },
+      {
+        "uri": "2127776f-ee56-4a27-b2be-d12bfa432723@9739b"
+      },
+      {
+        "uri": "2127776f-ee56-4a27-b2be-d12bfa432723@932e8"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "_CharacterSucceeds",
+        "duration": 2.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "_CharacterSucceeds",
+            "from": 0,
+            "to": 2.5,
+            "wrapMode": 2,
+            "previousId": "055f0"
+          }
+        ]
+      },
+      {
+        "name": "ClickedOn",
+        "duration": 5.199999809265137,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "ClickedOn",
+            "from": 0,
+            "to": 5.199999809265137,
+            "wrapMode": 2,
+            "previousId": "e3010"
+          }
+        ]
+      },
+      {
+        "name": "Congratulate",
+        "duration": 3.3333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Congratulate",
+            "from": 0,
+            "to": 3.3333332538604736,
+            "wrapMode": 2,
+            "previousId": "07b30"
+          }
+        ]
+      },
+      {
+        "name": "Embarrassed",
+        "duration": 7.066666603088379,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Embarrassed",
+            "from": 0,
+            "to": 7.066666603088379,
+            "wrapMode": 2,
+            "previousId": "a2327"
+          }
+        ]
+      },
+      {
+        "name": "Hide",
+        "duration": 3.2666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Hide",
+            "from": 0,
+            "to": 3.2666666507720947,
+            "wrapMode": 2,
+            "previousId": "c431f"
+          }
+        ]
+      },
+      {
+        "name": "Pleased",
+        "duration": 5.9666666984558105,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Pleased",
+            "from": 0,
+            "to": 5.9666666984558105,
+            "wrapMode": 2,
+            "previousId": "c3c3d"
+          }
+        ]
+      },
+      {
+        "name": "Show",
+        "duration": 5.300000190734863,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Show",
+            "from": 1.4119691627826472,
+            "to": 1.9644788351758566,
+            "wrapMode": 2,
+            "previousId": "b5060"
+          }
+        ]
+      },
+      {
+        "name": "Travel",
+        "duration": 6.566666603088379,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Travel",
+            "from": 0,
+            "to": 6.566666603088379,
+            "wrapMode": 2,
+            "previousId": "e8911"
+          }
+        ]
+      },
+      {
+        "name": "Writing",
+        "duration": 3.066666603088379,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Writing",
+            "from": 0,
+            "to": 3.066666603088379,
+            "wrapMode": 2,
+            "previousId": "0fc01"
+          }
+        ]
+      },
+      {
+        "name": "Idle",
+        "duration": 3.1666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle",
+            "from": 0,
+            "to": 3.1666667461395264,
+            "wrapMode": 2,
+            "previousId": "c2696"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "2127776f-ee56-4a27-b2be-d12bfa432723@057cb",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@82371",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@d114a"
+      ],
+      "skeletons": [
+        "2127776f-ee56-4a27-b2be-d12bfa432723@13eba",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@00e76",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@46d79"
+      ],
+      "textures": [
+        "2127776f-ee56-4a27-b2be-d12bfa432723@3effa",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@221a5",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@0089c",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@9b633",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@9b782",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@50743",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@99ea5",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@006bd"
+      ],
+      "materials": [
+        "2127776f-ee56-4a27-b2be-d12bfa432723@28448",
+        "2127776f-ee56-4a27-b2be-d12bfa432723@d71e7"
+      ],
+      "scenes": [
+        "2127776f-ee56-4a27-b2be-d12bfa432723@9b2ad"
+      ]
+    }
+  }
+}
